@@ -18,5 +18,6 @@
   "homepage": "https://github.com/vamsikrishna-ctl/app-ip_address#readme",
   "dependencies": {
     "ip-cidr": "^3.0.0"
-  }
+  },
+  "devDependencies": {}
 }
